@@ -29,7 +29,7 @@ DevOps Engineer experienced in building, deploying, and operating high-availabil
 
 I enjoy building reliable, scalable, and fully automated production systems.
 
-## ★ Tech Stack
+## ✨ Tech Stack
 
 <p align="center"> <img width="755" height="286" alt="image" src="https://github.com/user-attachments/assets/0b448a73-3ecf-4646-bdd6-3df28e2f59ea" /> </p>
 
@@ -47,7 +47,7 @@ I enjoy building reliable, scalable, and fully automated production systems.
 
 #### • Scripting & OS - Python, Bash, Linux (RHEL, Ubuntu)
 
-## Production Experience Highlights
+## ⚡︎ Production Experience Highlights
 
 • Managed 20+ microservices on AWS EKS  
 • Built GitOps CI/CD pipelines using GitHub Actions + ArgoCD  
