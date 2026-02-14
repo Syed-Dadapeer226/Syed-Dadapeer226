@@ -22,10 +22,10 @@
 
 DevOps Engineer experienced in building, deploying, and operating high-availability cloud-native platforms on AWS and Azure.
 
-✔ Improved deployment success from 78% → 95%  
-✔ Achieved 99.95% uptime in production environments  
-✔ Reduced MTTR by 35% using monitoring + automation  
-✔ Strong experience in Kubernetes, GitOps, CI/CD, and Infrastructure as Code  
+- Improved deployment success rate from **78% → 95%**  
+- Achieved **99.95% production uptime**  
+- Reduced **MTTR by 35%** using monitoring + automation  
+- Strong experience in Kubernetes, GitOps, CI/CD, and Infrastructure as Code
 
 I enjoy building reliable, scalable, and fully automated production systems.
 
@@ -33,28 +33,29 @@ I enjoy building reliable, scalable, and fully automated production systems.
 
 <p align="center"> <img width="755" height="286" alt="image" src="https://github.com/user-attachments/assets/0b448a73-3ecf-4646-bdd6-3df28e2f59ea" /> </p>
 
-#### • Cloud - AWS, Azure 
+- **Cloud** - AWS, Azure 
 
-#### • Containers & Orchestration - Docker, Kubernetes, Helm
+- **Containers & Orchestration** - Docker, Kubernetes, Helm
 
-#### • CI/CD & GitOps - Jenkins, GitHub Actions, ArgoCD
+- **CI/CD & GitOps** - Jenkins, GitHub Actions, ArgoCD
 
-#### • Infrastructure as Code - Terraform, Ansible
+- **Infrastructure as Code** - Terraform, Ansible
 
-#### • Monitoring & Observability - Prometheus, Grafana
+- **Monitoring & Observability** - Prometheus, Grafana
 
-#### • DevSecOps - Trivy, SonarQube, OWASP
+- **Security & DevSecOps** - Trivy, SonarQube, OWASP
 
-#### • Scripting & OS - Python, Bash, Linux (RHEL, Ubuntu)
+- **Scripting & OS** - Python, Bash, Linux (RHEL, Ubuntu)
 
 ## ⚡︎ Production Experience Highlights
 
-• Managed 20+ microservices on AWS EKS  
-• Built GitOps CI/CD pipelines using GitHub Actions + ArgoCD  
-• Implemented Blue-Green & Rolling deployments (Zero Downtime)  
-• Designed Terraform-based AWS infrastructure (VPC, EC2, RDS, IAM, ALB)  
-• Automated CI/CD pipelines reducing manual deployment effort by 80%  
-• Implemented monitoring with Prometheus + Grafana + Alerting  
+- Managed **20+ microservices** on AWS EKS
+- Built GitOps CI/CD pipelines using **GitHub Actions + Argo CD**
+- Implemented **Blue-Green and Rolling deployments** (Zero downtime)
+- Designed and deployed AWS infrastructure using **Terraform**
+- Reduced manual deployment effort by **80% via Jenkins automation**
+- Implemented centralized monitoring using **Prometheus + Grafana + Alertmanager**
+
 ##
 <!-- ================= Tools - Icons  ================= 
 <p align="center">
