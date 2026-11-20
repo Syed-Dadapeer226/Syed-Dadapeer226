@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Designing+Scalable+Cloud+Infrastructure;Building+Production+CI%2FCD+Pipelines;Kubernetes+%7C+Terraform+%7C+Docker+%7C+Observability;DevOps+Engineer&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Designing+Scalable+Cloud+Infrastructure;Building+Production+CI%2FCD+Pipelines;GitOps+%7C+Kubernetes+%7C+Terraform+%7C+Observability;DevOps+Engineer;AI&center=true&width=600&height=45">
 </p>
 
 ## 👨‍💻 About Me
