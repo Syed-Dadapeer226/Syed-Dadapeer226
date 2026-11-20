@@ -11,7 +11,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A192F&height=200&section=header&text=👨‍💻%20Syed%20Dadapeer%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
-  <b>⚙️ DevOps | ☁️ Cloud | 🚀 Automation | 📦 Containers | 📊 Observability</b>
+  <b>🤖 AI | ⚙️ DevOps | ☁️ Cloud | 🚀 Automation | 📦 Containers | 📊 Observability</b>
 </p>
 
 <p align="center">
